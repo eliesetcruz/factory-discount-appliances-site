@@ -1,10 +1,12 @@
 <svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="38" y="38" width="144" height="144" rx="32" fill="#123F86"/>
-  <path d="M124 38H150C167.673 38 182 52.3269 182 70V96L124 38Z" fill="#E1262C"/>
-  <rect x="74" y="58" width="72" height="104" rx="16" fill="white"/>
-  <rect x="84" y="72" width="52" height="76" rx="8" fill="#E8EEF9"/>
-  <rect x="93" y="80" width="5" height="24" rx="2.5" fill="#123F86"/>
-  <rect x="93" y="112" width="5" height="28" rx="2.5" fill="#123F86"/>
-  <rect x="122" y="80" width="5" height="60" rx="2.5" fill="#123F86"/>
-  <rect x="74" y="108" width="72" height="4" fill="#D6E0F2"/>
+  <path d="M110 14L170 36V100C170 143 145 178 110 198C75 178 50 143 50 100V36L110 14Z" fill="#123F86"/>
+  <path d="M110 30L156 47V100C156 134 137 163 110 179C83 163 64 134 64 100V47L110 30Z" fill="white" opacity="0.98"/>
+  <path d="M64 47L110 30V179C83 163 64 134 64 100V47Z" fill="#123F86"/>
+  <path d="M110 30L156 47V100C156 134 137 163 110 179V30Z" fill="#E1262C"/>
+  <path d="M92 60H129C135.627 60 141 65.3726 141 72V138C141 144.627 135.627 150 129 150H92C85.3726 150 80 144.627 80 138V72C80 65.3726 85.3726 60 92 60Z" fill="white"/>
+  <rect x="98" y="69" width="25" height="72" rx="3" fill="#DFE8F7"/>
+  <rect x="101" y="77" width="4" height="24" rx="2" fill="#123F86"/>
+  <rect x="101" y="108" width="4" height="25" rx="2" fill="#123F86"/>
+  <rect x="118" y="77" width="4" height="56" rx="2" fill="#123F86"/>
+  <path d="M77 80L80.8206 90.9443H92.3819L83.0306 97.7114L86.8511 108.656L77 101.889L67.1489 108.656L70.9694 97.7114L61.6181 90.9443H73.1794L77 80Z" fill="white"/>
 </svg>
